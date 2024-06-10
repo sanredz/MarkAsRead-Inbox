@@ -16,7 +16,7 @@ Personal project of mine due to the fact that my hosting provider (One.com) does
 * Go back to your console and press *Enter*, switch back to focus on the browser window again
 
 ### Others
-* Inspect your email providers UI for your specific CSS tags for:
+* Inspect the browser while in your inbox for your specific CSS tags for:
     * **Checkbox** to mark all emails on the current page
     * **Mark as Read** button to mark them all as read
     * **Next page** button to load the next set of emails
